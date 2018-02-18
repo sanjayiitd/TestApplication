@@ -5,4 +5,11 @@ package com.example.datapassing;
  */
 
 public class CheckforGit {
+
+    private int  x;
+    private int y;
+
+    public void sum(){
+        int z = x+y;
+    }
 }
